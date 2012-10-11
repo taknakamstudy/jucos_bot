@@ -16,6 +16,10 @@ API = twitter.Api(
     access_token_secret=OAUTH_TOKEN_SECRET
 )
 
+"""
+create test line
+"""
+
 def jucos_pattern(tl):
     """
     Yield tweets that are not posted by 'jucos_bot'
