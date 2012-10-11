@@ -22,6 +22,9 @@ create test line
 """
 add test line
 """
+"""
+add test line 3
+"""
 
 def jucos_pattern(tl):
     """
